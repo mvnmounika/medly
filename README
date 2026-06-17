@@ -1,0 +1,17 @@
+🩺 Medly – AI-Powered Healthcare Intelligence Platform
+ **AI-Powered Healthcare Platform: Scan. Understand. Eat Right. Heal Better.**
+📌 Overview
+
+Medly is an AI-powered healthcare platform that converts medical documents such as prescriptions, lab reports, and medical images into clear, structured, and easy-to-understand insights using advanced multimodal AI.
+
+The system uses Streamlit for the interface and Google Gemini AI for intelligent analysis to help users understand their health reports, detect possible conditions, and receive personalized guidance.
+
+The goal is to improve healthcare accessibility by simplifying complex medical information into actionable insights for patients and caregivers.
+
+🚀 Features
+🧠 AI-powered analysis of prescriptions, lab reports, and medical images
+📊 Disease detection with severity classification (Mild, Moderate, High)
+💊 Automated digital prescription extraction and tracking
+🧪 Biomarker comparison with standard medical ranges
+🥗 Personalized diet recommendations based on health conditions
+⏱️ Smart medication and daily health scheduling system
